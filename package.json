@@ -1,0 +1,20 @@
+{
+  "name": "simple-blogging-site",
+  "version": "1.0.0",
+  "description": "A simple blogging site",
+  "homepage": "https://github.com/Mugara250/simple-blogging-site#readme",
+  "bugs": {
+    "url": "https://github.com/Mugara250/simple-blogging-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugara250/simple-blogging-site.git"
+  },
+  "license": "ISC",
+  "author": "Mushi Mbonyumugara",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  }
+}

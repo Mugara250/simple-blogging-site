@@ -1,0 +1,2 @@
+# Simple blogging website
+This project is about a simple blogging site that allows a user to read blogs, post blogs, update blogs, delete blogs,... The project focuses on the foundations of Node.js, a technology that allows creating servers using JavaScript.
